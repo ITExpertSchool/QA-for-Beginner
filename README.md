@@ -5,7 +5,8 @@ Course for non-technicsl people. The course is oriented on USA IT profesionals m
 
 Goal to find job as QA in the USA.
 
-
+FAQ. 
+ -- Russian. https://youtu.be/pmPz_yRtnco
 
 
 Course for 2 months.
