@@ -43,7 +43,7 @@ You will familar with terms:
  - Rusian. https://youtu.be/vluTpGE-8KU
  - English. https://youtu.be/B6II0NM3EAQ
 1.3. Introduction in Internet.
-  - Russian.
+  - Russian. https://youtu.be/XoilKImpU7Q
   - English.
 Additional indormation.
  - How to find an job for IT professionals in the USA Russian. https://youtu.be/Q0SsYRr3Ftk
