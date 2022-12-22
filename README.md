@@ -53,6 +53,18 @@ You will familar with terms:
 1.2. Introduction in Internet.
   - Russian. https://youtu.be/XoilKImpU7Q
   - English. https://youtu.be/YkrSBWklrlg
+
+1.3. Introduction in Internet. What happens when you input URL into browser and push Enter button?
+You will familar with terms: 
+    DNS, URL, RESTful, API, REST API, HTTP, HTTPS, HTTP requests, HTTP methods, HTTP response, HTTP status code, HTTP header, HTTP body, Response codes,
+    DNS lookup, Domain name, JSON, Cache, CDN, Recursive server, Authoritative nameservers, DNS record , Root servers, TCP, TCP handshake, OSI, HTML, CSS,     JavaScript.
+    - Russian. https://youtu.be/hfF9Sws_gfE
+    - English. 
+    
+1.4. Practice. Introduction in IT. Part 1. 
+You will work with Postman and Swagger, will start to create test scenarious, test cases. 
+   Additional materials - see is folder Introduction in IT in repository. 
+
   
 Additional indormation.
  - How to find an job for IT professionals in the USA Russian. https://youtu.be/Q0SsYRr3Ftk
