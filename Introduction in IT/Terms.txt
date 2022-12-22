@@ -35,3 +35,6 @@
 35. HTML — hyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser.
 36. CSS — Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language.
 37. JavaScript is a text-based programming language used both on the client side and server side that allows you to make web pages interactive.
+38. RAM Random-access memory - a form of computer memory that can be read and changed in any order, typically used to store working data and machine code.
+39. CACHE - is hardware or software that is used to store something, usually data, temporarily in a computing environment.
+40. Central Processing Unit or CPU is electronic machinery that carries out instructions from programs that allows a computer or other device to perform its tasks.
