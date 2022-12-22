@@ -8,6 +8,8 @@ API clients like Swagger and Postman
 
 Mixed Analytics' own API Connector for Google Sheets
 
+Please be free to test and improve skilss 
+
 #	API NAME	DESCRIPTION	SAMPLE URL
 1	7Timer!	Weather forecasts	http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json
 2	Agify.io	Predict age based on a name	https://api.agify.io?name=bella
