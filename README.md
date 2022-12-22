@@ -59,6 +59,7 @@ You will familar with terms:
 You will familar with terms: 
     DNS, URL, RESTful, API, REST API, HTTP, HTTPS, HTTP requests, HTTP methods, HTTP response, HTTP status code, HTTP header, HTTP body, Response codes,
     DNS lookup, Domain name, JSON, Cache, CDN, Recursive server, Authoritative nameservers, DNS record , Root servers, TCP, TCP handshake, OSI, HTML, CSS,     JavaScript.
+    
     - Russian. https://youtu.be/hfF9Sws_gfE
     - English. 
     
