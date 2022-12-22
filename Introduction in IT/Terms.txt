@@ -1,0 +1,37 @@
+1. DNS — Domain Name Service — the system that automatically transfers internet addresses to the numeric machine addresses that computers use.
+2. URL — Uniform Resource Locator — address of unique resource on the Web.
+3. RESTful refers to software architecture which stands for «Representational State Transfer».
+4. API — Application programming interface — set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application , or other service.
+5. REST API is an application programming interface that conforms to the constraints of REST architectural style and allows for integration with RESTful web services.
+6. HTTP — HyperText Transfer Protocol — application layer protocol gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between client and server .
+7. HTTPS — HyperText Transfer Protocol Secure — the same as HTTP but with using secured connections.
+8. Query string — a part of URL that assigns values to specified parameters.
+9. HTTP requests are messages sent by the client to initiate an action on the server.
+10. HTTP method - a verb (like GET, POST or PUT) or a noun (like HEAD or OPTIONS) that describe the action to be performed.
+11. HTTP header can be used in HTTP request to provide information about the request context, so that the server can tailor the response.
+12. HTTP request body — data sent by the client to API.
+13. HTTP response is made by a server to a client.
+14. HTTP response status codes indicate whether a specific HTTP request has been successfully completed.
+15. Response code 1xx Informational responses
+16. Response code 2xx Successful responses
+17. Response code 3xx Redirection messages
+18. Response code 4th Client error responses
+19. Response code 5xx Server error responses 
+20. DNS lookup Is a process to find the IP address of any domain name.
+21. Domain name refers to the website address.
+22. JSON - JavaScript Object Notation is an open data interchange format that both human and machine-readable.
+23. CACHE  is a high-speed data storage layer which stores a subset of data, so that future requests for that data are served up faster then is possible by accessing the data’s primary storage location.
+24. CDN - Content Delivery Network also called a content distribution network, is a group of geographical distributed and interconnected servers. They provide cached internet content from a network location closest to a user to speed up its delivery.
+25. Recursive server is a DNS server that acts on behalf of the end host to find the IP address of a domain name which it is not authorized for and returns this information to the requested host.
+26. Authoritative nameservers are like the book company that publishes multiple phone books, one per region.
+27. Recursive DNS servers are like some who uses a phone book to look up  the number of contact a person or company.
+28. DNS record is a database record used to map a URL to an IP address. dNS records are stored in DNS servers and work to help users connect their websites to the outside world.
+29. The most common record type is  A (address).
+30. Root servers or DNS root servers are name servers that are responsible for the functionality of the DNS as well as the entire internet. They are the first step in the name resolution of any  domain names.
+31. SYN , ACK — components of TCP handshake.
+32. TCP/IP stands for Transmission Control Protocol / Internet Protocol and is a suite of communication protocols used to interconnection network devices on the internet. Protocol 3-4 layers of OSI model.
+33. OSI Open System Interconnection model is a conceptual model that provides a common basis for the coordination of standards development for the purpose of system interconnection.
+34. Hyperlink or simply a link is a digital reference to data that the user can follow to be guided by clicking or tapping.
+35. HTML — hyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser.
+36. CSS — Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language.
+37. JavaScript is a text-based programming language used both on the client side and server side that allows you to make web pages interactive.
