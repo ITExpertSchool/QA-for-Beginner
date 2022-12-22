@@ -7,8 +7,8 @@ Goal to find job as QA in the USA.
 
 FAQ. 
  -- Russian. https://youtu.be/pmPz_yRtnco
- Be free to setup individual meetings with professionals:
-itexpertschoolru@gmail.com
+ 
+Be free to setup individual meetings with professionals: itexpertschoolru@gmail.com
 224-223-5872
 
 
